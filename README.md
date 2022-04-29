@@ -7,10 +7,10 @@ Learn Drupal from basic to advanced level.
 
 
 ## Learning Basics
-1. [Drupal 8 Beginner's Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxHzlDeQvCNDKkyKRV1G3_vT)
-2. [Drupal 8 Site Building Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxGwyvUD_tYcBbLJqRC1CZ6U)
-3. [Drupal 8 Layout and Theming Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxG0sW9YOueVgouRp4aj1bng)
-4. [Drupal 8 Module Development Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxHi-llE9Z8-Q747NYWpsq6t)
+1. 📽 [Drupal 8 Beginner's Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxHzlDeQvCNDKkyKRV1G3_vT)
+2. 📽 [Drupal 8 Site Building Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxGwyvUD_tYcBbLJqRC1CZ6U)
+3. 📽 [Drupal 8 Layout and Theming Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxG0sW9YOueVgouRp4aj1bng)
+4. 📽 [Drupal 8 Module Development Course](https://www.youtube.com/playlist?list=PLpVC00PAQQxHi-llE9Z8-Q747NYWpsq6t)
 
 ## Official Resources
 1. [Documentation](https://www.drupal.org/documentation)
