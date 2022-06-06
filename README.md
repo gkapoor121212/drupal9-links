@@ -20,9 +20,11 @@ Learn Drupal from basic to advanced level.
 5. 📕 [Drupal APIs](https://www.drupal.org/docs/drupal-apis)
 
 ## Paid Training
-1. 💵 [Drupalize.me](https://drupalize.me/)
-2. 💵 [Udemy Courses](https://www.udemy.com/topic/drupal/)
-3. 💵 [Drupal Tutor](https://www.drupaltutor.com/)
+1. 💵 [Drupal Easy](https://drupaleasy.com/)
+2. 💵 [Debug Academy](https://debugacademy.com/)
+3. 💵 [Drupalize.me](https://drupalize.me/)
+4. 💵 [Udemy Courses](https://www.udemy.com/topic/drupal/)
+5. 💵 [Drupal Tutor](https://www.drupaltutor.com/)
 
 ## Blogs and Videos
 > This section provides links to useful blogs related to various sub-topics that you should know as Drupal developer.
