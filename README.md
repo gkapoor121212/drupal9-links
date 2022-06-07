@@ -26,6 +26,11 @@ Learn Drupal from basic to advanced level.
 4. 💵 [Udemy Courses](https://www.udemy.com/topic/drupal/)
 5. 💵 [Drupal Tutor](https://www.drupaltutor.com/)
 
+## Podcasts
+1. 🎙️ [Talking Drupal](https://www.talkingdrupal.com/) - [Talking Drupal iTunes](https://itunes.apple.com/us/podcast/talking-drupal/id731742705?mt=2)
+2. 🎙️ [Drupal Easy Podcast](https://drupaleasy.com/podcast) - [Drupal Easy Podcast iTunes](https://itunes.apple.com/us/podcast/drupaleasy-podcast/id305745575?mt=2) 
+3. 🎙️ [Lullabot Podcast](https://www.lullabot.com/podcasts/lullabot-podcast) - [Lullabot Podcast iTunes](https://itunes.apple.com/us/podcast/drupalize.me-podcast/id117672529) 
+
 ## Blogs and Videos
 > This section provides links to useful blogs related to various sub-topics that you should know as Drupal developer.
 
