@@ -46,7 +46,7 @@ Learn Drupal from basic to advanced level.
 9. 📕 [Example for Developers](https://www.drupal.org/project/examples)
 
 ### Advanced Module Development Concepts
-1. ✍️ [Learning Drupal 9 as a framework](https://leanpub.com/drupal-9)
+1. ✍️ [Learning Drupal 9 as a framework](https://stefvanlooveren.me/courses/drupal-9-framework)
 2. ✍️ [Single Sign On Across Drupal 8](https://medium.com/@iwantha/single-sign-on-across-drupal-8-e42db6a2e7f)
 3. ✍️ [How to Create a Custom Block in Drupal 8](https://www.agiledrop.com/blog/how-create-custom-block-drupal-8)
 4. ✍️ [Drupal 8: Quick Handbook On Cache API](https://www.axelerant.com/blog/drupal-8-quick-handbook-on-cache-api)
