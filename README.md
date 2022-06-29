@@ -46,14 +46,15 @@ Learn Drupal from basic to advanced level.
 9. 📕 [Example for Developers](https://www.drupal.org/project/examples)
 
 ### Advanced Module Development Concepts
-1. ✍️ [Single Sign On Across Drupal 8](https://medium.com/@iwantha/single-sign-on-across-drupal-8-e42db6a2e7f)
-2. ✍️ [How to Create a Custom Block in Drupal 8](https://www.agiledrop.com/blog/how-create-custom-block-drupal-8)
-3. ✍️ [Drupal 8: Quick Handbook On Cache API](https://www.axelerant.com/blog/drupal-8-quick-handbook-on-cache-api)
-4. ✍️ [Your Complete Introduction to Drupal 8 Configuration Management](https://ostraining.com/blog/drupal/config/)
-5. ✍️ [Work with the database in Drupal 8](https://drupaloutsourcing.com/blog/work-database-drupal-8)
-6. ✍️ [Drupal Entities, What are they & Custom Types](https://www.unleashed-technologies.com/blog/drupal-entities)
-7. ✍️ [Learn how to change an existing Drupal form](https://befused.com/drupal/form-alter/)
-8. ✍️ [Drupal 8 Custom Plugin Types](https://www.sitepoint.com/drupal-8-custom-plugin-types)
+1. ✍️ [Learning Drupal 9 as a framework](https://stefvanlooveren.me/courses/drupal-9-framework)
+2. ✍️ [Single Sign On Across Drupal 8](https://medium.com/@iwantha/single-sign-on-across-drupal-8-e42db6a2e7f)
+3. ✍️ [How to Create a Custom Block in Drupal 8](https://www.agiledrop.com/blog/how-create-custom-block-drupal-8)
+4. ✍️ [Drupal 8: Quick Handbook On Cache API](https://www.axelerant.com/blog/drupal-8-quick-handbook-on-cache-api)
+5. ✍️ [Your Complete Introduction to Drupal 8 Configuration Management](https://ostraining.com/blog/drupal/config/)
+6. ✍️ [Work with the database in Drupal 8](https://drupaloutsourcing.com/blog/work-database-drupal-8)
+7. ✍️ [Drupal Entities, What are they & Custom Types](https://www.unleashed-technologies.com/blog/drupal-entities)
+8. ✍️ [Learn how to change an existing Drupal form](https://befused.com/drupal/form-alter/)
+9. ✍️ [Drupal 8 Custom Plugin Types](https://www.sitepoint.com/drupal-8-custom-plugin-types)
 
 ### Theme Development
 1. 📕 [Theming Drupal](https://www.drupal.org/docs/theming-drupal)
